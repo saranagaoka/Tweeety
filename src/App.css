@@ -1,0 +1,13 @@
+body {
+  --tweeety-color: #1da1f2;
+  --tweeety-background: #f9f8f8;
+}
+
+.app {
+  display: flex;
+  height: 100vh;
+  max-width: 1300px; /*tego mozna sie pozbyc bedzie na caly ekran*/
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 10px;
+}
